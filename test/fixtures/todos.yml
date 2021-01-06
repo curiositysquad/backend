@@ -2,8 +2,6 @@
 
 one:
   todo_item: MyString
-  time: 1
 
 two:
   todo_item: MyString
-  time: 1
