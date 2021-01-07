@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 Todo.create([
-    {todo_item: 'make coffee'},
-    {todo_item: 'call mom'},
-    {todo_item: 'take out trash'}
+    {item: 'make coffee'},
+    {item: 'call mom'},
+    {item: 'take out trash'}
 ])
