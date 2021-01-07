@@ -8,5 +8,6 @@
 Todo.create([
     {item: 'make coffee'},
     {item: 'call mom'},
-    {item: 'take out trash'}
+    {item: 'take out trash'},
+    {item: 'do group project'}
 ])
