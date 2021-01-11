@@ -1,24 +1,17 @@
-# README
+# Morementum Backend Api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Team Members
+- Keneisha Corbett - Backend Lead
+- Peter Gacek - Frontend Lead/Release Manager 
+- Tyler Farhner - Project Manager
 
-Things you may want to cover:
+### Getting Started
+#### Live Backend Api
+[click here](https://morementum-api.herokuapp.com/todos) to view the live backend api
+or, in your code editor run the following commands
 
-* Ruby version
+    `bundle install`
+    `rails db:create`
+    `rails db:migrate`
+    `rails db:seed`
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
