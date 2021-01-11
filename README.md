@@ -11,7 +11,7 @@
 [click here](https://morementum-api.herokuapp.com/todos) to view the live backend api
 or in your code editor run the following commands
 
-[click here]()to view the deployed app!
+[click here](https://morementum.herokuapp.com/)to view the deployed app!
 
     `bundle install`
     `rails db:create`
