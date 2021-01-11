@@ -7,7 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins 'https://morementum.herokuapp.com/todos/'
+    origins 'https://morementum-api.herokuapp.com/todos/'
 
     resource '*',
       headers: :any,
