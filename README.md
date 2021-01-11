@@ -6,6 +6,7 @@
 - Tyler Farhner - Project Manager
 ### Technologies Ued
  - Ruby on Rails 
+ - postgreSQL
  
 ### Getting Started
 #### Live Backend Api
